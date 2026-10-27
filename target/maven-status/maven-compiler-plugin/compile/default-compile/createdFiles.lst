@@ -1,0 +1,5 @@
+com\example\bookcatalogue\BookGUI.class
+com\example\bookcatalogue\Publication.class
+com\example\bookcatalogue\BookNotFoundException.class
+com\example\bookcatalogue\Catalogue.class
+com\example\bookcatalogue\Book.class
